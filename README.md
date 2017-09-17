@@ -6,5 +6,6 @@ Built with Flask/Python and hosted on Heroku. Uses machine learning and Clarifai
 ![alt text](https://i.imgur.com/yIV59Ey.jpg)
 
 
-## Developer
-Jean-Claude Tissier
+## Notes
+Developer: Jean-Claude Tissier
+Feel free to reach out if you have any questions about the code or how it works.
