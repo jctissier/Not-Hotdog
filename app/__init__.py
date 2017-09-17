@@ -6,7 +6,7 @@ from clarifai.rest import ClarifaiApp, Image as ClImage, ApiError
 
 app = Flask(__name__)
 app.config.from_object('config')
-clari = ClarifaiApp(api_key='e8ca9c80e1934ed3a9a9965cf333a4af')             # API key for Clarifai
+clari = ClarifaiApp(api_key='YOUR-API-KEY')             # API key for Clarifai
 
 
 @app.route('/')
