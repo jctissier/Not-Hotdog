@@ -3,4 +3,8 @@
 
 Built with Flask/Python and hosted on Heroku. Uses machine learning and Clarifai's image recognition API to analyze the image URL.
 
-https://i.imgur.com/yIV59Ey.jpg
+![alt text](https://i.imgur.com/yIV59Ey.jpg)
+
+
+## Developer
+Jean-Claude Tissier
